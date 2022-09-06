@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 NOW
-- 🔭 I’m currently working on Javascript, React, Elixir, Phoenix, Ruby/Rails
+- 🔭 I’m currently working on Javascript, Node.js, React, Elixir, Phoenix, Ruby/Rails
 - 🌱 I’m currently learning Rust, GoLang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything above, career development, bootcamp, practical programming, projects etc.
 - 📫 How to reach me
  -- twitter:  @rajeshpillai
