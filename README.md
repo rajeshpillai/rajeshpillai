@@ -21,5 +21,5 @@ NOW
 - 🌱 I’m currently learning Rust, GoLang
 - 💬 Ask me about anything above, career development, bootcamp, practical programming, projects etc.
 - 📫 How to reach me
- - twitter:  @rajeshpillai
- - linkedin: https://www.linkedin.com/in/pillairajesh/
+  - twitter:  @rajeshpillai
+  - linkedin: https://www.linkedin.com/in/pillairajesh/
