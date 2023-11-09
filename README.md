@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Work
+🏢 Work
 - Building MVP for Algorisys
 - Upskilling Tech Team and Training
 - Architecture and System Design
 - Consulting  
 
-What am I doing?
+⌚️ What am I doing?
 - 🔭 I’m currently working on Javascript, Node.js, React, Elixir/Phoenix/LiveView, Next.js, RemixJS, Ruby/Rails for building applications at scale
 - ⚡ Using Cypress, Playwright + k6 for lightning fast e2e and load/performance testing
 - 🌱 I’m currently learning Rust, GoLang, AI, Machine Learning, Deep Learning, Computer Vision
@@ -34,7 +34,7 @@ What am I doing?
   - My Blog and Courses:  https://teachyourselfcoding.com/
   - My Udemy Courses: https://www.udemy.com/user/rajeshpillai2/
  
-Recreational Programming
+✨ Recreational Programming
 - Game Development
 - Toy Compilers, parsers and programming language
 
