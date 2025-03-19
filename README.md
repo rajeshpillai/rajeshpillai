@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Toy Compilers, parsers and programming language
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpillai&layout=compact)
 
 
 ### :fire: My Stats :
