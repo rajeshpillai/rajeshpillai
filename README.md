@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 - Game Development
 - Toy Compilers, parsers and programming language
 
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpillai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 
 ### :fire: My Stats :
