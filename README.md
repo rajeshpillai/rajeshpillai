@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 - Toy Compilers, parsers and programming language
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpillai)](https://github.com/rajeshpillai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpillai)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
-[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshpillai)](https://github.com/rajeshpillai/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajeshpillai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
