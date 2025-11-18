@@ -38,12 +38,9 @@ Here are some ideas to get you started:
 - Game Development
 - Toy Compilers, parsers and programming language
 
-### Top Languages
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshpillai&layout=compact&langs_count=12&card_width=320" />
-</a>
+![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeshpillai&theme=github)
 
-
+![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeshpillai&theme=github)
 
 
 
