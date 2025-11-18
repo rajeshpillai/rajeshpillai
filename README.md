@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpillai&layout=compact)
+![Top Langs]([![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/rajeshpillai/github-readme-stats))
 
 
 
