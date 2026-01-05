@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Consulting  
 
 ⌚️ What am I doing?
-- 🔭 I’m currently working on Javascript, Node.js, React, Elixir/Phoenix/LiveView, Next.js, RemixJS, Ruby/Rails for building applications at scale
+- 🔭 I’m currently working on Javascript, Node.js, React, Zig, Rust, Golang, Elixir/Phoenix/LiveView, Next.js for building applications at scale
 - ⚡ Using Cypress, Playwright + k6 for lightning fast e2e and load/performance testing
 - 🌱 I’m currently learning Rust, GoLang, AI, Machine Learning, Deep Learning, Computer Vision
 - 💬 Ask me about anything above, career development, bootcamp, practical programming, projects etc.
@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  
 ✨ Recreational Programming
 - Game Development
-- Toy Compilers, parsers and 
+- Toy Compilers, parsers and
+
+### Learning Repos
+-![Learn Wasm+Browser with Zig](https://github.com/rajeshpillai/zig-wasm-browser)
+-![Zig WASM Snake Game](https://github.com/rajeshpillai/zig-wasm-snake-game)
 
 ### Top Languages
 ![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeshpillai&theme=github)
