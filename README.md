@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - Toy Compilers, parsers and
 
 ### Learning Repos
-- ![Learn Wasm+Browser with Zig](https://github.com/rajeshpillai/zig-wasm-browser)
-- ![Zig WASM Snake Game](https://github.com/rajeshpillai/zig-wasm-snake-game)
+- Learn Wasm+Browser with Zig: https://github.com/rajeshpillai/zig-wasm-browser
+- Zig WASM Snake Game: https://github.com/rajeshpillai/zig-wasm-snake-game
 
 ### Top Languages
 ![Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeshpillai&theme=github)
