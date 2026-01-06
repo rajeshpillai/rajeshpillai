@@ -51,7 +51,7 @@ I’m **Rajesh Pillai** — software engineer, architect, and founder focused on
 - **Zig WASM Snake Game**
   https://github.com/rajeshpillai/zig-wasm-snake-game
 
--- **Learn Core Functional Elixir**
+- **Learn Core Functional Elixir**
   https://github.com/rajeshpillai/core-elixir-students
   
 ---
